@@ -5,12 +5,6 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 <h1>Comentário do texto acima</h1>
 
-**Original**
-<p>
-  Engenharia de Software, não é apenas programação, e sim também. Ela envolve tempo, escala e trade-offs. Tempo, pois é necessário estipular quanto tempo será usado em determinado requisito, definir prazos de entrega, e como acontecerão as manutenções de código. Escala, pois será necessário definir o tamanho e a complexidade do projeto, além de relacionar-se com a quantidade de recursos, componentes, usuários e a extensão do software. O trade-offs, pois é necessário tomar decisões, referentes a modelagem dos dados, qual tecnologia será usada, qual requisito será acrescentado ou removido e, independente da decisão haverá ganhos e perdas.
-</p>
-
-**Corrigido**
 <p>
   Engenharia de Software transcende a mera programação, incorporando uma abordagem abrangente que considera fatores cruciais como tempo, escala e trade-offs. A gestão eficaz do tempo é essencial, envolvendo a definição de prazos, a alocação de recursos para requisitos específicos e a estratégia para futuras manutenções do código. Em relação à escala, é imperativo delinear a magnitude e complexidade do projeto, levando em conta recursos, componentes, usuários e a amplitude do software.
 </p>
